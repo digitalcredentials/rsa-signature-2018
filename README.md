@@ -1,8 +1,8 @@
-# Example Isomorphic JS Lib Template _(@digitalbazaar/isomorphic-js-lib-template)_
+# RsaSignature2018 Linked Data Proof suite _(@digitalbazaar/rsa-signature-2018)_
 
-[![Node.js CI](https://github.com/digitalbazaar/isomorphic-js-lib-template/workflows/Node.js%20CI/badge.svg)](https://github.com/digitalbazaar/isomorphic-js-lib-template/actions?query=workflow%3A%22Node.js+CI%22)
+[![Node.js CI](https://github.com/digitalbazaar/rsa-signature-2018/workflows/Node.js%20CI/badge.svg)](https://github.com/digitalbazaar/rsa-signature-2018/actions?query=workflow%3A%22Node.js+CI%22)
 
-> A template skeleton repo for (non-Bedrock) JS libraries that run in Node.js and in the browser.
+> RsaSignature2018 Linked Data Proof suite for use with jsonld-signatures.
 
 ## Table of Contents
 
@@ -29,8 +29,8 @@ TBD
 To install locally (for development):
 
 ```
-git clone https://github.com/digitalbazaar/isomorphic-js-lib-template.git
-cd isomorphic-js-lib-template
+git clone https://github.com/digitalbazaar/rsa-signature-2018.git
+cd rsa-signature-2018
 npm install
 ```
 

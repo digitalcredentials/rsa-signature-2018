@@ -1,4 +1,4 @@
-# isomorphic-js-lib-template Changelog
+# rsa-signature-2018 Changelog
 
 ## 1.0.0 - TBD
 

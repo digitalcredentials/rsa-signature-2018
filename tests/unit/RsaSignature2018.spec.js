@@ -7,12 +7,12 @@ chai.use(dirtyChai);
 chai.should();
 const {expect} = chai;
 
-import {Example} from '../../';
+import {RsaSignature2018} from '../../';
 
-describe('Example', () => {
+describe('RsaSignature2018', () => {
   describe('constructor', () => {
     it('should exist', async () => {
-      const ex = new Example();
+      const ex = new RsaSignature2018();
 
       expect(ex).to.exist();
     });

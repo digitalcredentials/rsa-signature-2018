@@ -23,6 +23,8 @@
   ],
   "module": "lib/main.js",
   "dependencies": {
+    "@digitalbazaar/rsa-verification-key-2018": "digitalbazaar/rsa-verification-key-2018#initial",
+    "@digitalbazaar/jws-linked-data-signature": "digitalbazaar/jws-linked-data-signature#initial",
     "esm": "^3.2.25"
   },
   "devDependencies": {
